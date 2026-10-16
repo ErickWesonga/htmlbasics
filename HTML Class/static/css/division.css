@@ -1,0 +1,26 @@
+.fruits{
+    background-color: lightgreen;
+    border: 2px dotted green;
+    color: rgb(177, 9, 9);
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.cars{
+    background-color: lightblue;
+    border: 2px solid blue;
+    color: rgb(238, 9, 9);
+    margin: 20px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#Computer{
+     background-color: lightblue;
+    border: 2px solid blue;
+    color: rgb(238, 9, 9);
+    margin: 20px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
